@@ -50,7 +50,6 @@ CREATE TABLE PROJECT (
 
 
 
-# er-d
 
 ![image](https://github.com/sahrul180304/xampp6/assets/115526901/e2b1e348-300e-46ff-8195-2b0a9d5ddef4)
 
